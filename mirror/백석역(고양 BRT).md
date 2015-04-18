@@ -1,0 +1,63 @@
+[고양 BRT](%EA%B3%A0%EC%96%91%20BRT.md) 버스정류장
+
+[대화역](%EB%8C%80%ED%99%94%EC%97%AD%28%EA%B3%A0%EC%96%91%20BRT%29.md) 방면  
+[호수마을·흰돌마을](%ED%98%B8%EC%88%98%EB%A7%88%EC%9D%84%C2%B7%ED%9D%B0%EB%8F%8C%EB%A7%88%EC%9D%84%28%EA%B3%A0%EC%96%91%20BRT%29.md)  
+[알미공원](%EC%95%8C%EB%AF%B8%EA%B3%B5%EC%9B%90%28%EA%B3%A0%EC%96%91%20BRT%29.md)
+
+←
+
+[백석역](%EB%B0%B1%EC%84%9D%EC%97%AD%28%EA%B3%A0%EC%96%91%20BRT%29.md)
+
+→
+
+[덕은동](%EB%8D%95%EC%9D%80%EB%8F%99%28%EA%B3%A0%EC%96%91%20BRT%29.md) 방면  
+[백석동](%EB%B0%B1%EC%84%9D%EB%8F%99%28%EA%B3%A0%EC%96%91%20BRT%29.md)
+
+  
+
+## Contents
+
+    
+
+1. 정류장 및 정차 버스 정보 
+2. 설명 
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/%EB%B0%B1%EC%84%9D%EC%97%AD%28%EA%B
+3%A0%EC%96%91%20BRT%29?action=edit&section=1)]
+
+## 1. 정류장 및 정차 버스 정보 ¶
+
+인접 도시철도역 : [수도권 전철 3호선](%EC%88%98%EB%8F%84%EA%B6%8C%20%EC%A0%84%EC%B2%A0%203%ED%98%B8%EC%84%A0.md)
+[백석역](%EB%B0%B1%EC%84%9D%EC%97%AD%28%EC%9D%BC%EC%82%B0%EC%84%A0%29.md)  
+정차 [광역급행버스](%EA%B4%91%EC%97%AD%EA%B8%89%ED%96%89%EB%B2%84%EC%8A%A4.md) :
+[M7106](%EA%B4%91%EC%97%AD%EA%B8%89%ED%96%89%EB%B2%84%EC%8A%A4%20M7106.md),
+[M7412](%EA%B4%91%EC%97%AD%EA%B8%89%ED%96%89%EB%B2%84%EC%8A%A4%20M7412.md)  
+정차 [경기순환버스](%EA%B2%BD%EA%B8%B0%EC%88%9C%ED%99%98%EB%B2%84%EC%8A%A4.md) :
+[8109](%EA%B2%BD%EA%B8%B0%EC%88%9C%ED%99%98%EB%B2%84%EC%8A%A4%208109.md),
+[8407](%EA%B2%BD%EA%B8%B0%EC%88%9C%ED%99%98%EB%B2%84%EC%8A%A4%208407.md)  
+정차 [간선급행버스](%EA%B0%84%EC%84%A0%EA%B8%89%ED%96%89%EB%B2%84%EC%8A%A4.md) :
+[200](%ED%8C%8C%EC%A3%BC%20%EB%B2%84%EC%8A%A4%20200.md),
+[1000](%EA%B3%A0%EC%96%91%20%EB%B2%84%EC%8A%A4%201000.md),
+[1100](%EA%B3%A0%EC%96%91%20%EB%B2%84%EC%8A%A4%201100.md),
+[1500](%EA%B3%A0%EC%96%91%20%EB%B2%84%EC%8A%A4%201500.md),
+[2000](%ED%8C%8C%EC%A3%BC%20%EB%B2%84%EC%8A%A4%202000.md),
+[9701](%EC%84%9C%EC%9A%B8%20%EB%B2%84%EC%8A%A4%209701.md),
+[9711A](%EC%84%9C%EC%9A%B8%20%EB%B2%84%EC%8A%A4%209711A.md),
+[9714](%EC%84%9C%EC%9A%B8%20%EB%B2%84%EC%8A%A4%209714.md)  
+정차 [공항리무진](%EA%B3%B5%ED%95%AD%EB%A6%AC%EB%AC%B4%EC%A7%84.md) :
+[3300](%EA%B3%A0%EC%96%91%20%EB%B2%84%EC%8A%A4%203300.md)
+
+  
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/%EB%B0%B1%EC%84%9D%EC%97%AD%28%EA%B
+3%A0%EC%96%91%20BRT%29?action=edit&section=2)]
+
+## 2. 설명 ¶
+
+[이름은 백석역인데 백석역이랑 멀다](%ED%8E%98%EC%9D%B4%ED%81%AC%EB%8B%A4%20%EC%9D%B4%20%EB%B3%91%EC%8B%A0%EB%93%A4%EC%95%84.md). 거의 한 블럭은 걸어가야한다(...)
+
+  
+
+이 정류장 근처에 [크고아름다운](%ED%81%AC%EA%B3%A0%20%EC%95%84%EB%A6%84%EB%8B%A4%EC%9A%B4.md) 나이트클럽이
+있다(...)
+

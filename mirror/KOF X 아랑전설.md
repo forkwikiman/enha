@@ -1,0 +1,76 @@
+**[더 킹 오브 파이터즈](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88.md)**
+
+[등장인물](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%EC%8B%9C%EB%A6%AC%EC%A6%88/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC.md) / [팀](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%EC%8B%9C%EB%A6%AC%EC%A6%88/%ED%8C%80.md) / [기술](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%EC%8B%9C%EB%A6%AC%EC%A6%88/%EA%B8%B0%EC%88%A0.md) / [커맨드 리스트](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%EC%8B%9C%EB%A6%AC%EC%A6%88/%EC%BB%A4%EB%A7%A8%EB%93%9C%20%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
+
+**넘버링 시리즈**
+**오로치편** : 프롤로그 [KOF '94](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%2794.md) \- 1부 [KOF '95](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%2795.md) \- 2부 [KOF '96](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%2796.md) \- 3부 [KOF '97](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%2797.md) \- 드림매치 [KOF '98](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%2798.md)   
+**네스츠편** : 1부 [KOF '99](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%2799.md) \- 2부 [KOF 2000](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%202000.md) \- 3부 [KOF 2001](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%202001.md) \- 드림매치 [KOF 2002](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%202002.md)   
+**애쉬편** : 1부 [KOF 2003](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%202003.md) \- 2부 [KOF XI](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20XI.md) \- 드림매치 [KOF XII](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20XII.md) \- 3부 [KOF XIII](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20XIII.md)
+
+**맥시멈 임팩트 시리즈**
+[맥시멈임팩트](KOF%20%EB%A7%A5%EC%8B%9C%EB%A9%88%20%EC%9E%84%ED%8C%A9%ED%8A%B8.md) \-
+[맥시멈 임팩트2](KOF%20%EB%A7%A5%EC%8B%9C%EB%A9%88%20%EC%9E%84%ED%8C%A9%ED%8A%B8%202.md)
+\- [맥시멈 임팩트 레귤레이션 A](KOF%20%EB%A7%A5%EC%8B%9C%EB%A9%88%20%EC%9E%84%ED%8C%A9%ED%8A%B8%20%EB%A0%88%EA%B7%A4%EB%A0%88%EC%9D%B4%EC%85%98%20A.md)
+
+**UM 시리즈**
+['98 얼티메이트 매치](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%2798%20%EC%96%BC%ED%8B%B0%EB%A9%94%EC%9D%B4%ED%8A%B8%20%EB%A7%A4%EC%B9%98.md) \- [2002 언리미티드 매치](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%202002%20%EC%96%B8%EB%A6%AC%EB%AF%B8%ED%8B%B0%EB%93%9C%20%EB%A7%A4%EC%B9%98.md)
+
+**[휴대용 게임기](%EA%B2%8C%EC%9E%84%EA%B8%B0.md)**
+[열투 '95](%EC%97%B4%ED%88%AC%20%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%2795.md) \- [열투 '96](%EC%97%B4%ED%88%AC%20%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%2796.md) / [R-1](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20R-1.md) \- [R-2](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20R-2.md) /
+[배틀 DE 파라다이스](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%EB%B0%B0%ED%8B%80%20DE%20%ED%8C%8C%EB%9D%BC%EB%8B%A4%EC%9D%B4%EC%8A%A4.md)  
+[EX 네오 블러드](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20EX%20%EB%84%A4%EC%98%A4%20%EB%B8%94%EB%9F%AC%EB%93%9C.md)
+\- [EX2 하울링 블러드](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20EX2%20%ED%95%98%EC%9A%B8%EB%A7%81%20%EB%B8%94%EB%9F%AC%EB%93%9C.md)
+
+**[드림캐스트](%EB%93%9C%EB%A6%BC%EC%BA%90%EC%8A%A4%ED%8A%B8.md)**
+[드림 매치 1999](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%EB%93%9C%EB%A6%BC%20%EB%A7%A4%EC%B9%98%201999.md) \-
+['99 에볼루션](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%2799%20%EC%97%90%EB%B3%BC%EB%A3%A8%EC%85%98.md)
+
+**[스마트폰](%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0.md)**
+[KOF-i, 안드로이드](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88-i.md) \- [i 2012, A 2012](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88-i%202012.md) / [KOF X아랑전설](KOF%20X%20%EC%95%84%EB%9E%91%EC%A0%84%EC%84%A4.md) / [M](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20M.md)
+
+**[기타](%EA%B8%B0%ED%83%80.md)**
+[퀴즈](%ED%80%B4%EC%A6%88%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88.md) / [쿄](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%EC%BF%84.md) / [네오웨이브](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%EB%84%A4%EC%98%A4%EC%9B%A8%EC%9D%B4%EB%B8%8C.md) / ['94 RE-BOUT](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%2794%20RE-BOUT.md) / [스카이 스테이지](KOF%20SKY%20STAGE.md) / [온라인](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%EC%98%A8%EB%9D%BC%EC%9D%B8.md)
+
+**[미디어 믹스](%EB%AF%B8%EB%94%94%EC%96%B4%20%EB%AF%B9%EC%8A%A4.md)**
+[어나더 데이](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88%20%EC%96%B4%EB%82%98%EB%8D%94%20%EB%8D%B0%EC%9D%B4.md) / [영화](
+/wiki/%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0
+%EC%A6%88%28%EC%98%81%ED%99%94%29)
+
+  * [KOF X 아랑전설 공식 사이트](http://game.snkplaymore.co.jp/official/kof-garou/)
+  * [카드 모음](https://www.facebook.com/media/set/?set=a.511001885612490.116234.167092176670131&type=3)  
+
+![http://www.siliconera.com/wordpress/wp-
+content/uploads/2013/04/image140.png](http://www.siliconera.com/wordpress/wp-
+content/uploads/2013/04/image140.png)
+
+[[PNG external image]](http://www.siliconera.com/wordpress/wp-
+content/uploads/2013/04/image140.png)
+
+![http://ava-a.sp.mbga.jp/cache/static/i/open/smartphone/3/f/3f4e34cf5f6a010d5
+0e74afe6c54980c.png?v=1ee45a2e5aa9705b3c0ded8223bde05d](http://ava-a.sp.mbga.j
+p/cache/static/i/open/smartphone/3/f/3f4e34cf5f6a010d50e74afe6c54980c.png)
+
+[[PNG external image]](http://ava-a.sp.mbga.jp/cache/static/i/open/smartphone/
+3/f/3f4e34cf5f6a010d50e74afe6c54980c.png)
+
+[더 킹 오브 파이터즈](%EB%8D%94%20%ED%82%B9%20%EC%98%A4%EB%B8%8C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88.md)
+[모바일](%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EA%B2%8C%EC%9E%84.md) [카드게임](%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84.md). 플랫폼은
+[스마트폰](%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0.md)([iOS](iOS.md)와 [안드로이드](/
+wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%28%EC%9A%B4%EC%98%81%EC%B2%
+B4%EC%A0%9C%29))과 [피처폰](%ED%94%BC%EC%B2%98%ED%8F%B0.md).
+
+**[2013년](2013%EB%85%84.md) 2월부터 9월까지 서비스를 했다.** 간단한 절차로 가입([페이스북](%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81.md)을 통해서도 가능)하고 별도의 설치 과정 없이 무료로 할 수 있었다. 다만 언어는 [일본어](%EC%9D%BC%EB%B3%B8%EC%96%B4.md)만 지원했다. 플레이어는 격투 캐릭터의 카드를 수집하고 강화해서 덱에 따라 카드 배틀을 한다.
+
+13년 2월 28일부터 3월 6일까지 [흑역사](%ED%9D%91%EC%97%AD%EC%82%AC.md)
+**[K9999](K9999.md)이 한정 공개되었다!** 당시 등급은 SS 레어.
+
+SNK [대전액션게임](%EB%8C%80%EC%A0%84%EC%95%A1%EC%85%98%EA%B2%8C%EC%9E%84.md) 역사에
+있어 본작의 제목은 논란이 될 수 있다. KOF 자체가 '아랑전설 VS 용호의 권'이라는 생각에서 출발한 것인데, 아무리 패망했다지만
+[용호의 권 시리즈](%EC%9A%A9%ED%98%B8%EC%9D%98%20%EA%B6%8C%20%EC%8B%9C%EB%A6%AC%EC%A6%88.md)는 버린 자식 취급된 격이다. 한편 현실적으로 KOF에 흡수 합병된 것이나 다름없는 [아랑전설 시리즈](%EC%95%84%EB%9E%91%EC%A0%84%EC%84%A4%20%EC%8B%9C%EB%A6%AC%EC%A6%88.md)를 새삼
+[크로스오버](%ED%81%AC%EB%A1%9C%EC%8A%A4%EC%98%A4%EB%B2%84.md)의 한 축으로 세우는 것이 우스울
+수도 있다.
+
+본작의 제목은 KOF X 아랑전설이었으나 13년 5월 16일부로 그냥 'KOF'로 개명했다(......) 그나마 사이트 주소에
+'아랑'(garou)이라는 문구가 병기되어 흔적은 남았고, [리그베다위키](%EB%A6%AC%EA%B7%B8%EB%B2%A0%EB%8B%A4%20%EC%9C%84%ED%82%A4.md)에서의 편의상 제목
+중복을 피하기 위해 항목은 'KOF X 아랑전설'로 작성되었다.
+

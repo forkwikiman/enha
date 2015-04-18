@@ -1,0 +1,236 @@
+![http://i43.tinypic.com/ngefdx.jpg](http://z2.enha.kr/http://i43.tinypic.com/
+ngefdx.jpg)
+
+[맥시멈 더 호르몬](%EB%A7%A5%EC%8B%9C%EB%A9%88%20%EB%8D%94%20%ED%98%B8%EB%A5%B4%EB%AA%AC.md)의 첫번 째 [앨범](%EC%95%A8%EB%B2%94.md)이다. 일본어로는 エー・エス・エー・クルー.
+
+## Contents
+
+    
+
+1 개요
+
+    
+
+1.1 수록곡 및 가사
+
+## 1 개요 ¶
+
+  
+
+[1999년](1999%EB%85%84.md) [8월 29일](8%EC%9B%94%2029%EC%9D%BC.md) 발매로, 당시
+가격 1,890엔 이었으나, 옛날에 폐반 되어서 지금은 중고 가격이 엄청 뛰었다. 호르몬 팬 중에도 모르는 사람이 많은 오래된 앨범. 당시의
+호르몬은 인디밴드 였다.
+
+  
+
+이 당시엔 료쿤과 우에쨩이 가입하기 전이었기에, 지금과 상당히 다른 모습을 보여준다. 호르몬 공식사이트 조차 **지금의 호르몬과 전혀 다른
+밴드라고 생각해 주세요.**라 써져 있을 정도.
+
+  
+
+멤버는 [보컬](%EB%B3%B4%EC%BB%AC.md) DAISUKE`[1]`,
+[드럼](%EB%93%9C%EB%9F%BC.md) NAO`[2]`, [기타](%EA%B8%B0%ED%83%80.md)
+SUGI`[3]`, [베이스](%EB%B2%A0%EC%9D%B4%EC%8A%A4.md) KEY`[4]`이다.
+
+  
+
+이 당시엔 영어표기가 정식표기라 MAXIMUM THE HORMONE이 맞는 표기인데, 사실 앨범
+[띠지](%EB%9D%A0%EC%A7%80.md)에 일본어로도 써져 있긴 하다. 근데 글자 하나가 누락되어서 マキシマム(마키시마무)가
+아닌 マキシム(마키시무)로 잘못 표기 되어 있다. 즉 **マキシム・ザ・ホルモン**(마키시무 자 호르몬). 지금은 안쓰는 가운데 점(・)도
+찍고, 지금과는 표기가 좀 달랐던 모양.`[5]`
+
+### 1.1 수록곡 및 가사 ¶
+
+여기 쓰여진 가사는 실제 앨범 내 가사카드의 내용을 오타까지 그대로 받아 친 겁니다. 오타가 있어도 원래 앨범 가사부터 있던 오타이니 가급적
+수정하진 말아주세요.  
+
+  
+
+  * 01\. **SEE THE SEA**  
+가사가 없는 연주곡.
+
+작곡:DAISUKE·SUGI
+
+  
+
+  * 02\. **PURPLE FIRE TAIL**
+
+(작사·작곡:DAISUKE)  
+  
+WHERE ON THE EARTH WAS I IN UNTIL SOMETIMES AGO?  
+IN THE END OF...., END OF THE STORY  
+WHICH FORGET DAILY LIFE MOMENTARY  
+I WHO SUDDENLY THINK I'M EXIST  
+WHILE I LIGHTED UP BY VIVID COLORS  
+I WAS LIKE MAD IN THAT TIME  
+FEEL THIS BEAT YOUR HEAD EMPTY  
+JUMP INTO THERE IF YOUR HEART TOUCHES SOMETHING
+
+  
+
+  * 03\. **THE CLAIM OF YOUTH 2**
+
+(작사·작곡:DAISUKE)  
+  
+IT IS TRUE THAT I CAN BE BREACH MY HEIR BY COKE  
+MY FRIEND BELIEVES THAT AND POUR IT  
+YOUR HEIR STICKY IRRITATE YOUR SKIN  
+WHEN I WAKE UP I FOUND SOMETHING  
+NEAR THE HEAD IN MY BED IT'S MY HAIR  
+TAKE CARE OF BREACHIN'!!!
+
+  
+
+  * 04\. **FAKE**
+
+(작곡:MAXIMUM THE HORMONE, 작사:DAISUKE)  
+  
+SECRET HOPE, BIG WORRY WE HAVE STARTED TAKIN' A STEP  
+CONSTANDIN' SMALL EFFORT　NOW, WE ARE STANDIN' HERE  
+I LOOK AROUND (HERE ARE) SO MANY SMILLES  
+'CAUSE WE ARE SMILLING,TOO　WITH VERY BIG THANKS  
+THE WAY WE'RE WALKED TILL NOW IS RIGHT FEEL IT SO MUCH  
+HAVE NO WAVERING ABOUT TAKIN' A STEP AGAIN  
+CHEERFULLY STRONGLY TO BE MYSELF IN THE SMILLE  
+幼き日々の母の愛ごとく　深く優しさ全てに温もり  
+自ら　身を焦がす太陽のごとく　偉大　情熱　たゆまぬ　尽力  
+これまで歩し道に悔いなし　これより歩し`[6]`道に迷いなし  
+唯一無二　崇高なる喜びここに見い出す  
+限界なき　美しき　喜びここに見い出す
+
+  
+
+  * 05\. **SHINE**
+
+(작곡:MAXIMUM THE HORMONE, 작사:DAISUKE)  
+  
+MY FRIEND, SHEERING THE DREAM  
+PRESENT THIS SONG FOR YOU SMALLY  
+THAT SUMMER DAY NOT LONG BEFORE THAT  
+YOU AND I'VE BEEN UNDER THE STRONG FRIENDSIP  
+EVEN IF ANYTHING HAPPENS WE ARE'NT CHANGE  
+YOU ARE'NT ONLY ONE　FIRM BOND, BELIEVIN' FORCE  
+　　　　　　　　　　　KEEP SHINING IN YOUR HEART  
+　　　　　　　　　　　NO ONE CAN'T TAKE IT  
+　　　　　　　　　　　WE ARE A.S.A.CREW
+
+  
+
+  * 06\. **PINEAPPLE**
+
+(작곡:MAXIMUM THE HORMONE, 작사:DAISUKE)  
+  
+WHAT DO YOU THINK OF YOUR UPPER POINTS?  
+WHAT KIND OF MAN ARE YOU?  
+I WONDER HOW DEEP DO YOU UNDERSTAND YOURSELF  
+MORE THAN YOUR PARENTS　MORE THAN YOUR FRIENDS  
+UNTIL YOUR DIE. THOUGH YOU DON'T HOPE SO  
+YOU MUST COMPANY WITH YOURSELF  
+I TREASURE MY SELF FROM NOW ON I'LL BE GENTLE  
+THOUGH I'M TRIVAL STUBBORN, AFTER ALL I SUFFER  
+MORE THAN YOUR PERENTS　MORE THAN YOUR FURIENDS  
+UNTIL YOUR DIE. THOUGH YOU DON'T HOPE SO  
+YOU SHULD LOVE YOURSELF THAN YOUR LOVER  
+KEEP IDEAL MAN IN YOUR HEART YOU TRUST AWAY  
+JUST WALK INTENTLY BUT FIRMLY MYSELF DON'T EXPOSE AT ALL
+
+  
+
+  * 07\. **LOST CRAP YOUR LIFE**
+
+(작사·작곡:DAISUKE)  
+  
+LET'S OPEN ANOTHER DOOR  
+SOMETHING WILL WAIT FOR YOU  
+LET'S OPEN ANOTHER DOOR  
+SOMETHING WILL WAIT FOR YOU  
+LET'S OPEN ANOTHER DOOR........  
+
+DON'T FORGET TO PACK YOUR FIRM  
+
+AND BIG COURAGE IN YOUR BAG  
+SUCCESS OR FAIL YOU'RE MAYBE WORRIED AND  
+PAZZIED THE THING WHICH IS IMPORTANT TO YOUR MIND  
+＜＜＜＜NOT SOMEONE YES YOURSELF!!!!＞＞＞＞
+
+  
+
+  * 08\. **YOU CAN'T ESCAPE**
+
+(작사·작곡:DAISUKE)  
+  
+TRUTH SPREAD AHEAD OF YOUR EYES  
+PEOPLE KEEP SILENT AND CLOSE THEIR EYES  
+"HOWEVER YOU TRY ESCAPE, YOU CAN'T ESCAPE"  
+EVEN YOU DON'T KNOW IT  
+TODAY LEAVING YOUR DOING STRANGER THRIVE  
+IN THE LABYRINTH YOU CAN'T GO AWAY, IT'S YOUR TURN  
+YOU HAVE DOING WHICH NOBODY CAN DO IT  
+THE COURAGE TAKE A STEP  
+THE FORCE BELIEVE YOURSELF  
+THEY CREATE YOUR FUTURE  
+THE TRUTH IS ONLY ONE
+
+  
+
+  * 09\. **THE CLAIM OF YOUTH**  
+후에 앨범 ブルペン キャッチャーズ ドリーム에서 THE CLAIM OF YOUTH 2000란 제목으로 팝 느낌이 강화된 버전이 수록된다.
+이때는 료쿤이 있던 때라 료쿤의 목소리를 들을 수 있다.
+
+(작사·작곡:DAISUKE)  
+  
+EVERYONE, LISTEN !! MY FUNNY CHAT  
+I FEEL BLUE EVERY MORNING  
+WANT TO SLEEP FOREVER YOU SURELY KNOW THIS FEELING  
+"HEY!! GET UP!! YOU'RE LATE FOR SCHOOL"  
+"FIVE MORE MINUTES　FIVE MORE MINUTES"  
+"MIND PART OF THE WAY　DO YOU HAVE THE HANDKERCHIEF?"  
+"YES ALRIGHT　THAT'S ALRIGHT I HAVE HAD ONE YET!!"  
+"YES ALRIGHT　THAT'S ALRIGHT I KNOW. I UNDERSTAND THAT"  
+HEY YO YOU OUGHT TO EXPERIENCE  
+HEY YO ANYBODY OUGHT TO EXPERIENCE  
+"WAKE UP!!!! WAKE UP!!!!"　　 GET TIRED OF THIS WORD  
+"WAKE UP!!!! WAKE UP!!!!"　　"BE QUIET, I WAKE UP!!"....
+
+  
+
+  * 10\. **KIPO#40**`[7]`
+
+(작곡:MAXIMUM THE HORMONE, 작사:DAISUKE)  
+  
+大河の如く流れる時間  
+それは時に激流　時に清流にも感じられる  
+無限にわきでる自我の欲望　体内をめぐる様々な想い  
+悩み　怒り　悲しみ　喜び  
+YOUR MIND それは何よりも美しい  
+細胞の一つ一つで感じる息吹　めくるめく情景  
+YOUR MIND それは大空よりも壮大  
+潜在意識の彼方....鼓動する....  
+目覚めるが故に　心 解き放つ
+
+  
+
+  * 11\. **GIMME COKE**
+
+(작사·작곡:DAISUKE)  
+  
+WHEN YOU DRINK COKE AFTER THAT  
+BADRY NOISE FOR YOUR MOUTH  
+WEHN YOU DRINK COKE AFTER THAT  
+BADRY NOISE FOR YOUR MOUTH  
+I WANT TO MAKE BADRY NOISE FROM MY MOUTH  
+BUT, I HAVE NO MANEY￥￥￥￥￥  
+GIMME GIMME COLA WANT TO SCREAM "GOOD TASTE!!!!"
+
+  
+
+`\----`
+
+`[1]` 지금의 다이스케항  
+`[2]` 지금의 나오  
+`[3]` 본명 스기우라 히데오. 현재는 탈퇴  
+`[4]` 본명 요시카와 키이치로. 현재는 탈퇴. 참고로 앨범 속 가사카드에는 KEY-YAN으로 표기 되어 있다.  
+`[5]` [맥시멈 더 호르몬](%EB%A7%A5%EC%8B%9C%EB%A9%88%20%EB%8D%94%20%ED%98%B8%EB%A5%B4%EB%AA%AC.md)항목을 보면 알겠지만, 지금의 정식 표기는 각 단어를 반각으로 띄운 マキシマム ザ ホルモン이다.  
+`[6]` 歩み의 오타. 일본어까지 오타를 내다니...  
+`[7]` "키포 샤프 포티"로 읽는다.
+

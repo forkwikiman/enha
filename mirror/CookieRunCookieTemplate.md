@@ -1,0 +1,308 @@
+  * 상위항목 : [쿠키런](%EC%BF%A0%ED%82%A4%EB%9F%B0.md), [쿠키런/쿠키](%EC%BF%A0%ED%82%A4%EB%9F%B0/%EC%BF%A0%ED%82%A4.md)  
+
+**[쿠키런](%EC%BF%A0%ED%82%A4%EB%9F%B0.md)의 등장 쿠키들**
+
+**C급**
+[용감한 쿠키군](%EC%9A%A9%EA%B0%90%ED%95%9C%20%EC%BF%A0%ED%82%A4%EA%B5%B0.md)
+
+[명랑한 쿠키양](%EB%AA%85%EB%9E%91%ED%95%9C%20%EC%BF%A0%ED%82%A4%EC%96%91.md)
+
+**첫 번째 쿠키 군단**
+
+**B급**
+[딸기맛 쿠키](%EB%94%B8%EA%B8%B0%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[쿠키앤크림쿠키](%EC%BF%A0%ED%82%A4%EC%95%A4%ED%81%AC%EB%A6%BC%20%EC%BF%A0%ED%82%A4.md)
+
+[구름맛 쿠키](%EA%B5%AC%EB%A6%84%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[버터크림 초코쿠키](%EB%B2%84%ED%84%B0%ED%81%AC%EB%A6%BC%20%EC%B4%88%EC%BD%94%EC%BF%A0%ED%82%A4.md)
+
+**A급**
+[커피맛 쿠키](%EC%BB%A4%ED%94%BC%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[보더맛 쿠키](%EB%B3%B4%EB%8D%94%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[공주맛 쿠키](%EA%B3%B5%EC%A3%BC%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[용사맛 쿠키](%EC%9A%A9%EC%82%AC%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[근육맛 쿠키](%EA%B7%BC%EC%9C%A1%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[좀비맛 쿠키](%EC%A2%80%EB%B9%84%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+**S급**
+[천사맛 쿠키](%EC%B2%9C%EC%82%AC%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[해적맛 쿠키](%ED%95%B4%EC%A0%81%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[닌자맛 쿠키](%EB%8B%8C%EC%9E%90%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[피겨여왕맛쿠키](%ED%94%BC%EA%B2%A8%EC%97%AC%EC%99%95%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[히어로맛 쿠키](%ED%9E%88%EC%96%B4%EB%A1%9C%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+**[치어리더맛 쿠키](%EC%B9%98%EC%96%B4%EB%A6%AC%EB%8D%94%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)**
+**[특전사맛 쿠키](%ED%8A%B9%EC%A0%84%EC%82%AC%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)**
+
+[악마맛 쿠키](%EC%95%85%EB%A7%88%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[마법사맛 쿠키](%EB%A7%88%EB%B2%95%EC%82%AC%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+**[요정맛 쿠키](%EC%9A%94%EC%A0%95%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)**
+[락스타맛 쿠키](%EB%9D%BD%EC%8A%A4%ED%83%80%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+**~두 번째 쿠키 군단**
+
+[체리맛 쿠키](%EC%B2%B4%EB%A6%AC%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[음유시인맛쿠키](%EC%9D%8C%EC%9C%A0%EC%8B%9C%EC%9D%B8%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[눈설탕맛 쿠키](%EB%88%88%EC%84%A4%ED%83%95%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[핑크초코쿠키](%ED%95%91%ED%81%AC%EC%B4%88%EC%BD%94%EC%BF%A0%ED%82%A4.md)
+
+**~세 번째 쿠키 군단**
+
+[예언자맛 쿠키](%EC%98%88%EC%96%B8%EC%9E%90%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[피스타치오맛 쿠키](%ED%94%BC%EC%8A%A4%ED%83%80%EC%B9%98%EC%98%A4%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[연금술사맛쿠키](%EC%97%B0%EA%B8%88%EC%88%A0%EC%82%AC%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[뱀파이어맛쿠키](%EB%B1%80%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+**~네 번째 쿠키 군단**
+
+[풋사과맛 쿠키](%ED%92%8B%EC%82%AC%EA%B3%BC%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+**[치즈케이크맛 쿠키](%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)**
+[소다맛 쿠키](%EC%86%8C%EB%8B%A4%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[탐험가맛 쿠키](%ED%83%90%ED%97%98%EA%B0%80%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[블랙베리맛쿠키](%EB%B8%94%EB%9E%99%EB%B2%A0%EB%A6%AC%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[키위맛 쿠키](%ED%82%A4%EC%9C%84%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[웨어울프맛쿠키](%EC%9B%A8%EC%96%B4%EC%9A%B8%ED%94%84%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+**~다섯 번째 쿠키 군단**
+
+[민트초코쿠키](%EB%AF%BC%ED%8A%B8%EC%B4%88%EC%BD%94%EC%BF%A0%ED%82%A4.md)
+
+[코코아맛 쿠키](%EC%BD%94%EC%BD%94%EC%95%84%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[홍고추맛 쿠키](%ED%99%8D%EA%B3%A0%EC%B6%94%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[슈크림맛 쿠키](%EC%8A%88%ED%81%AC%EB%A6%BC%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+~여섯 번째 쿠키 군단 (예정)
+
+**L급**
+**[정글전사 쿠키](%EC%A0%95%EA%B8%80%EC%A0%84%EC%82%AC%20%EC%BF%A0%ED%82%A4.md)**
+**[불꽃정령 쿠키](%EB%B6%88%EA%BD%83%EC%A0%95%EB%A0%B9%20%EC%BF%A0%ED%82%A4.md)**
+**[달빛술사 쿠키](%EB%8B%AC%EB%B9%9B%EC%88%A0%EC%82%AC%20%EC%BF%A0%ED%82%A4.md)**
+닌자맛 쿠키까지는 초기 출시부터 있던 쿠키들.  
+보유효과가 있는 쿠키는 **굵게** 표시.  
+L급과 한정판 쿠키는 쿠키 군단에 포함되지 않음.
+
+**한정판**
+[산타맛 쿠키](%EC%82%B0%ED%83%80%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[의적맛 쿠키](%EC%9D%98%EC%A0%81%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+[구미호맛 쿠키](%EA%B5%AC%EB%AF%B8%ED%98%B8%EB%A7%9B%20%EC%BF%A0%ED%82%A4.md)
+
+## Contents
+
+    
+
+1. 개요 
+2. 소개 
+3. 능력 
+    
+
+3.1. 평가
+
+    
+
+3.1.1. 역대 평가
+
+3.2. 추천 조합
+
+4. 그외 이야기거리 
+    
+
+4.1. 2차 창작에서의 모습
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/CookieRunCookieTemplate?action=edit
+&section=1)]
+
+## 1. 개요 ¶
+
+(선택창 기본 일러스트)
+
+(이벤트 스킨)
+
+(그 외 변신 후의 이미지 등)
+
+일반
+
+할로윈(혹은 설날 추석 등) 스킨
+
+변신 후(혹은 소환수 등)
+
+  
+
+이름
+
+(이름)
+
+영문명
+
+(라인판 명칭)
+
+등급
+
+(등급)
+
+콤비 펫
+
+(이름)
+
+기본체력
+
+(수치)
+
+능력
+
+(능력 명칭)
+
+레벨 8 달성시  
+획득 보물
+
+(진화 전)  
+→(진화 후)
+
+조합보너스
+
+(조합보너스 설명)  
+_(특히 콤비 펫과의 조합보너스는 밑줄 표시)_  
+_(라인판에만 있는 조합보너스는 기울임 표시)_
+
+출시 날짜
+
+(카카오판 출시 날짜)
+
+도전 과제
+
+(해금조건)
+
+도전 없이  
+즉시 구매
+
+(크리스탈 구매 가격)
+
+가격
+
+(코인 구매 가격)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/CookieRunCookieTemplate?action=edit
+&section=2)]
+
+## 2. 소개 ¶
+
+> **"(시작 대사들. 가나다순으로 작성해주세요.)"**
+
+* * *
+
+> (프로필 설명)
+
+  
+
+(그 외 외형이나 성격 등 간단한 특징을 서술해주세요. 단, 2차 창작에서의 모습이나 기타 트리비아 등은 아래에 따로 적어주세요.)
+
+  
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/CookieRunCookieTemplate?action=edit
+&section=3)]
+
+## 3. 능력 ¶
+
+> **(세부 프로필에서의 능력 설명)**
+
+  
+
+  * 능력에 관한 자세한 설명. 레벨에 따라 달라지는 수치 정보 등은 되도록이면 레벨 8 기준으로 해주세요.  
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/CookieRunCookieTemplate?action=edit
+&section=4)]
+
+### 3.1. 평가 ¶
+
+(현 시점에서의 평가)
+
+  
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/CookieRunCookieTemplate?action=edit
+&section=5)]
+
+#### 3.1.1. 역대 평가 ¶
+
+  * 시즌 1 :
+  * 두번째 이야기 :
+  * 겨울이야기 :
+  * 격변의 전조 :
+  * 새로운 세계 :  
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/CookieRunCookieTemplate?action=edit
+&section=6)]
+
+### 3.2. 추천 조합 ¶
+
+  * 상성이 좋은 펫(없다면 생략)  
+
+    * (목록)
+  * 상성이 나쁜 펫(없다면 생략)  
+
+    * (목록)  
+
+  * (구체적인 조합이 있을 경우 다음 표를 사용하세요.)  
+
+먼저 달리는 쿠키
+
+펫
+
+이어달리기 쿠키
+
+보물
+
+(선달 쿠키)
+
+(펫)
+
+(이달 쿠키)
+
+(보물1)
+
+(보물2)
+
+(보물3)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/CookieRunCookieTemplate?action=edit
+&section=7)]
+
+## 4. 그외 이야기거리 ¶
+
+  
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/CookieRunCookieTemplate?action=edit
+&section=8)]
+
+### 4.1. 2차 창작에서의 모습 ¶
+
+(딱히 2차 창작이 활발하지 않다면 이 부분은 생략.)
+
+  
+

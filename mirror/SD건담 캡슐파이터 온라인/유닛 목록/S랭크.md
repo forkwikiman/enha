@@ -1,0 +1,222 @@
+## Contents
+
+    
+
+1. [기동전사 건담](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4.md)
+2. [기동전사 건담 0083](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%200083.md)
+3. [기동전사 Z건담](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20Z%EA%B1%B4%EB%8B%B4.md)([건담 센티넬](%EA%B1%B4%EB%8B%B4%20%EC%84%BC%ED%8B%B0%EB%84%AC.md) 포함) 
+4. [기동전사 건담 ZZ](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%20ZZ.md)
+5. [기동전사 건담 역습의 샤아](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%20%EC%97%AD%EC%8A%B5%EC%9D%98%20%EC%83%A4%EC%95%84.md)(MSV, [섬광의 하사웨이](%EC%84%AC%EA%B4%91%EC%9D%98%20%ED%95%98%EC%82%AC%EC%9B%A8%EC%9D%B4.md) 포함) 
+6. [기동전사 건담 UC](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%20UC.md)
+7. [기동전사 건담 F91](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%20F91.md)([기동전사 크로스본 건담](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B3%B8%20%EA%B1%B4%EB%8B%B4.md) 포함) 
+8. [기동전사 V건담](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20V%EA%B1%B4%EB%8B%B4.md)
+9. [기동무투전 G건담](%EA%B8%B0%EB%8F%99%EB%AC%B4%ED%88%AC%EC%A0%84%20G%EA%B1%B4%EB%8B%B4.md)
+10. [신기동전기 건담 W Endless Waltz](%EC%8B%A0%EA%B8%B0%EB%8F%99%EC%A0%84%EA%B8%B0%20%EA%B1%B4%EB%8B%B4%20W%20Endless%20Waltz.md)
+11. [기동신세기 건담 X](%EA%B8%B0%EB%8F%99%EC%8B%A0%EC%84%B8%EA%B8%B0%20%EA%B1%B4%EB%8B%B4%20X.md)
+12. [∀건담](%E2%88%80%EA%B1%B4%EB%8B%B4.md)
+13. [기동전사 건담 SEED](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%20SEED.md)([기동전사 건담 SEED DESTINY](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%20SEED%20DESTINY.md)등 포함) 
+14. [기동전사 건담 00](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%2000.md)
+15. [기동전사 건담 AGE](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%20AGE.md)
+16. [건담 빌드 파이터즈](%EA%B1%B4%EB%8B%B4%20%EB%B9%8C%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88.md)
+
+{{| 본 항목은 [캡파 S랭크](%EC%BA%A1%ED%8C%8C%20S%EB%9E%AD%ED%81%AC.md)로 검색해도 들어올 수
+있습니다. |}}
+
+[캢파](SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8.md)에 등장하는 <del>아직까진</del> 최상위 랭크 유닛들 목록.(SS, SR랭크
+포함)
+
+새로운 유닛 등장 시 [CapsuleFighterUnitTemplate](CapsuleFighterUnitTemplate.md)에 맞게
+추가 바람.
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC
+%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%9C%A0%EB%8
+B%9B%20%EB%AA%A9%EB%A1%9D/S%EB%9E%AD%ED%81%AC?action=edit&section=1)]
+
+### 1. [기동전사건담](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4.md) ¶
+
+  * [중장형 풀아머 건담 7호기](%EA%B1%B4%EB%8B%B4%207%ED%98%B8%EA%B8%B0/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-3.md)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC
+%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%9C%A0%EB%8
+B%9B%20%EB%AA%A9%EB%A1%9D/S%EB%9E%AD%ED%81%AC?action=edit&section=2)]
+
+### 2. [기동전사 건담0083](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%200083.md)
+¶
+
+  * [건담 시작 3호기](%EA%B1%B4%EB%8B%B4%20%EC%8B%9C%EC%9E%91%203%ED%98%B8%EA%B8%B0/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md) \- [건담 시작 3호기(폴딩 바주카)](%EA%B1%B4%EB%8B%B4%20%EC%8B%9C%EC%9E%91%203%ED%98%B8%EA%B8%B0/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-3.md)
+  * [노이에 질](%EB%85%B8%EC%9D%B4%EC%97%90%20%EC%A7%88#s-2.md) \- [노이에 질(미사일 런처)](%EB%85%B8%EC%9D%B4%EC%97%90%20%EC%A7%88#s-3.md)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC
+%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%9C%A0%EB%8
+B%9B%20%EB%AA%A9%EB%A1%9D/S%EB%9E%AD%ED%81%AC?action=edit&section=3)]
+
+### 3. [기동전사Z건담](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20Z%EA%B1%B4%EB%8B%B4.md)([건담센티넬](%EA%B1%B4%EB%8B%B4%20%EC%84%BC%ED%8B%B0%EB%84%AC.md) 포함) ¶
+
+  * [Ex-S 건담](S%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-3.md) \- [딥 스트라이커](S%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-4.md)
+  * [The O(각성모드)](The%20O/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-3.md)
+  * [델타 건담](%EB%8D%B8%ED%83%80%20%EA%B1%B4%EB%8B%B4#s-6.3.md)
+  * [백식 개량형](%EB%B0%B1%EC%8B%9D/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-4.md) \- [풀아머 백식 개량형](%EB%B0%B1%EC%8B%9D/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-5.md)
+  * [사이코 건담 Mk-II](%EC%82%AC%EC%9D%B4%EC%BD%94%20%EA%B1%B4%EB%8B%B4%20Mk-II#s-5.1.md)
+  * [제타 건담(각성모드)](Z%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%20%ED%8C%8C%EC%9D%B4%ED%84%B0#s-3.md) \- [제타 건담 3호기](Z%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%20%ED%8C%8C%EC%9D%B4%ED%84%B0#s-4.md)
+  * [젯 투](%EC%A0%AF%20%ED%88%AC#s-5.md)
+  * [풀아머 건담 Mk-III](%EA%B1%B4%EB%8B%B4%20Mk-III#s-4.2.md)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC
+%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%9C%A0%EB%8
+B%9B%20%EB%AA%A9%EB%A1%9D/S%EB%9E%AD%ED%81%AC?action=edit&section=4)]
+
+### 4. [기동전사 건담ZZ](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%20ZZ.md) ¶
+
+  * [퀸 만사](%ED%80%B8%20%EB%A7%8C%EC%82%AC#s-2.md)
+  * [큐베레이(각성모드)](%ED%81%90%EB%B2%A0%EB%A0%88%EC%9D%B4#s-2.2.3.md)
+  * [풀 아머 ZZ건담](%ED%92%80%20%EC%95%84%EB%A8%B8%20ZZ%EA%B1%B4%EB%8B%B4#s-2.4.md)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC
+%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%9C%A0%EB%8
+B%9B%20%EB%AA%A9%EB%A1%9D/S%EB%9E%AD%ED%81%AC?action=edit&section=5)]
+
+### 5. [기동전사 건담 역습의 샤아](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%20%EC%97%AD%EC%8A%B5%EC%9D%98%20%EC%83%A4%EC%95%84.md)(MSV, [섬광의 하사웨이](
+/wiki/%EC%84%AC%EA%B4%91%EC%9D%98%20%ED%95%98%EC%82%AC%EC%9B%A8%EC%9D%B4) 포함)
+¶
+
+  * [뉴 건담](%EB%89%B4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-1.md) \- [뉴 건담 HWS](%EB%89%B4%20%EA%B1%B4%EB%8B%B4%20HWS#s-3.md) \- [하이뉴 건담](%ED%95%98%EC%9D%B4%EB%89%B4%20%EA%B1%B4%EB%8B%B4#s-3.4.md) \- [뉴 건담(더블 핀 판넬)](%EB%89%B4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-3.md)
+  * [사자비](%EC%82%AC%EC%9E%90%EB%B9%84/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-1.md) \- [사자비(복부 확산 메가입자포)](%EC%82%AC%EC%9E%90%EB%B9%84/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md)
+  * [알파 아질](%EC%95%8C%ED%8C%8C%20%EC%95%84%EC%A7%88#s-4.1.md)
+  * [크시 건담](%ED%81%AC%EC%8B%9C%20%EA%B1%B4%EB%8B%B4#s-6.4.md)
+  * [페넬로페](%ED%8E%98%EB%84%AC%EB%A1%9C%ED%8E%98%28%EA%B1%B4%EB%8B%B4%20%EC%8B%9C%EB%A6%AC%EC%A6%88%29#s-3.2.md)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC
+%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%9C%A0%EB%8
+B%9B%20%EB%AA%A9%EB%A1%9D/S%EB%9E%AD%ED%81%AC?action=edit&section=6)]
+
+### 6. [기동전사 건담UC](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%20UC.md) ¶
+
+  * [샴블로](%EC%83%B4%EB%B8%94%EB%A1%9C#s-5.1.md)
+  * [시난주](%EC%8B%9C%EB%82%9C%EC%A3%BC/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-1.md) \- [시난주 (빔 액스)](%EC%8B%9C%EB%82%9C%EC%A3%BC/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md)
+  * [시난주 스타인](%EC%8B%9C%EB%82%9C%EC%A3%BC%20%EC%8A%A4%ED%83%80%EC%9D%B8#s-4.3.md)
+  * [유니콘 건담(NT-D)](%EC%9C%A0%EB%8B%88%EC%BD%98%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md) \- [유니콘 건담(빔 개틀링 건)](%EC%9C%A0%EB%8B%88%EC%BD%98%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-3.md) \- [풀아머 유니콘 건담](%ED%92%80%EC%95%84%EB%A8%B8%20%EC%9C%A0%EB%8B%88%EC%BD%98%20%EA%B1%B4%EB%8B%B4#s-7.4.md)
+  * [유니콘 건담 밴시(NT-D)](%EC%9C%A0%EB%8B%88%EC%BD%98%20%EA%B1%B4%EB%8B%B4%20%EB%B0%B4%EC%8B%9C/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md)
+  * [크샤트리아](%ED%81%AC%EC%83%A4%ED%8A%B8%EB%A6%AC%EC%95%84#s-2.6.1.md) \- [크샤트리아 리페어드](%ED%81%AC%EC%83%A4%ED%8A%B8%EB%A6%AC%EC%95%84#s-2.6.2.md)
+  * [네오 지옹](%EB%84%A4%EC%98%A4%20%EC%A7%80%EC%98%B9#s-8.md)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC
+%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%9C%A0%EB%8
+B%9B%20%EB%AA%A9%EB%A1%9D/S%EB%9E%AD%ED%81%AC?action=edit&section=7)]
+
+### 7. [기동전사 건담 F91](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%20F91.md)([기동전사 크로스본 건담](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B3%B8%20%EA%B1%B4%EB%8B%B4.md) 포함) ¶
+
+  * [건담 F91](%EA%B1%B4%EB%8B%B4%20F91/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-1.md) \- [건담 F91 (트윈 베스바)](%EA%B1%B4%EB%8B%B4%20F91/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-3.md)
+  * [크로스본 건담 X1](%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B3%B8%20%EA%B1%B4%EB%8B%B4%20X1/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-1.md) \- [크로스본 건담 X1 개량형](%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B3%B8%20%EA%B1%B4%EB%8B%B4%20X1/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md) \- [크로스본 건담 X1 개량형 스컬 하트](%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B3%B8%20%EA%B1%B4%EB%8B%B4%20X1/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-3.md) \- [크로스본 건담 X1 풀크로스](%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B3%B8%20%EA%B1%B4%EB%8B%B4%20X1/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-4.md)
+  * [크로스본 건담 X2](%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B3%B8%20%EA%B1%B4%EB%8B%B4%20X2/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-1.md) \- [크로스본 건담 X2 개량형](%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B3%B8%20%EA%B1%B4%EB%8B%B4%20X2/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md)
+  * [크로스본 건담 X3](%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B3%B8%20%EA%B1%B4%EB%8B%B4%20X3#s-3.2.md)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC
+%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%9C%A0%EB%8
+B%9B%20%EB%AA%A9%EB%A1%9D/S%EB%9E%AD%ED%81%AC?action=edit&section=8)]
+
+### 8. [기동전사V건담](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20V%EA%B1%B4%EB%8B%B4.md) ¶
+
+  * [V2건담](V2%EA%B1%B4%EB%8B%B4.md) \- [V2 버스터 건담](V2%20%EB%B2%84%EC%8A%A4%ED%84%B0%20%EA%B1%B4%EB%8B%B4.md) \- [V2 어설트 건담](V2%20%EC%96%B4%EC%84%A4%ED%8A%B8%20%EA%B1%B4%EB%8B%B4.md) \- [V2 어설트 버스터 건담](V2%20%EC%96%B4%EC%84%A4%ED%8A%B8%20%EB%B2%84%EC%8A%A4%ED%84%B0%20%EA%B1%B4%EB%8B%B4.md)
+  * [리그 콘티오](%EB%A6%AC%EA%B7%B8%20%EC%BD%98%ED%8B%B0%EC%98%A4.md)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC
+%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%9C%A0%EB%8
+B%9B%20%EB%AA%A9%EB%A1%9D/S%EB%9E%AD%ED%81%AC?action=edit&section=9)]
+
+### 9. [기동무투전 G건담](%EA%B8%B0%EB%8F%99%EB%AC%B4%ED%88%AC%EC%A0%84%20G%EA%B1%B4%EB%8B%B4.md) ¶
+
+  * [갓 건담](%EA%B0%93%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-1.md) \- [갓 건담 풍운재기](%EA%B0%93%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md)
+  * [마스터 건담](%EB%A7%88%EC%8A%A4%ED%84%B0%20%EA%B1%B4%EB%8B%B4#s-2.5.1.md) \- [마스터 건담 풍운재기](%EB%A7%88%EC%8A%A4%ED%84%B0%20%EA%B1%B4%EB%8B%B4#s-2.5.2.md)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC
+%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%9C%A0%EB%8
+B%9B%20%EB%AA%A9%EB%A1%9D/S%EB%9E%AD%ED%81%AC?action=edit&section=10)]
+
+### 10. [신기동전기 건담 W Endless Waltz](%EC%8B%A0%EA%B8%B0%EB%8F%99%EC%A0%84%EA%B8%B0%20%EA%B1%B4%EB%8B%B4%20W%20Endless%20Waltz.md) ¶
+
+  * [건담 데스사이즈 헬(EW)](%EA%B1%B4%EB%8B%B4%20%EB%8D%B0%EC%8A%A4%EC%82%AC%EC%9D%B4%EC%A6%88%20%ED%97%AC%20%EC%BB%A4%EC%8A%A4%ED%85%80#s-4.2.md)
+  * [건담 샌드록 개량형(EW)](%EA%B1%B4%EB%8B%B4%20%EC%83%8C%EB%93%9C%EB%A1%9D%20%EC%BB%A4%EC%8A%A4%ED%85%80#s-3.md)
+  * [건담 헤비암즈 개량형(EW)](%EA%B1%B4%EB%8B%B4%20%ED%97%A4%EB%B9%84%EC%95%94%EC%A6%88%20%EC%BB%A4%EC%8A%A4%ED%85%80#s-3.2.md)
+  * [알트론 건담(EW)](%EC%95%8C%ED%8A%B8%EB%A1%A0%20%EA%B1%B4%EB%8B%B4%20%EC%BB%A4%EC%8A%A4%ED%85%80#s-4.3.md)
+  * [윙 건담 제로(EW)](%EC%9C%99%20%EA%B1%B4%EB%8B%B4%20%EC%A0%9C%EB%A1%9C%20%EC%BB%A4%EC%8A%A4%ED%85%80/%EA%B2%8C%EC%9E%84#s-5.md)
+  * [톨기스III](%ED%86%A8%EA%B8%B0%EC%8A%A4III#s-3.2.md)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC
+%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%9C%A0%EB%8
+B%9B%20%EB%AA%A9%EB%A1%9D/S%EB%9E%AD%ED%81%AC?action=edit&section=11)]
+
+### 11. [기동신세기 건담 X](%EA%B8%B0%EB%8F%99%EC%8B%A0%EC%84%B8%EA%B8%B0%20%EA%B1%B4%EB%8B%B4%20X.md) ¶
+
+  * [건담 DX](%EA%B1%B4%EB%8B%B4%20DX/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-1.md) \- [건담 DX(G팔콘)](%EA%B1%B4%EB%8B%B4%20DX/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md)
+  * [건담 버사고 체스트 브레이크](%EA%B1%B4%EB%8B%B4%20%EB%B2%84%EC%82%AC%EA%B3%A0%20%EC%B2%B4%EC%8A%A4%ED%8A%B8%20%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC.md)
+  * [건담 아슈타론 허밋 크랩](%EA%B1%B4%EB%8B%B4%20%EC%95%84%EC%8A%88%ED%83%80%EB%A1%A0%20%ED%97%88%EB%B0%8B%20%ED%81%AC%EB%9E%A9.md)
+  * [건담 레오파드 디스트로이(G 팔콘)](%EA%B1%B4%EB%8B%B4%20%EB%A0%88%EC%98%A4%ED%8C%8C%EB%93%9C%20%EB%94%94%EC%8A%A4%ED%8A%B8%EB%A1%9C%EC%9D%B4.md)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC
+%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%9C%A0%EB%8
+B%9B%20%EB%AA%A9%EB%A1%9D/S%EB%9E%AD%ED%81%AC?action=edit&section=12)]
+
+### 12. [∀건담](%E2%88%80%EA%B1%B4%EB%8B%B4.md) ¶
+
+  * [턴에이 건담](%ED%84%B4%EC%97%90%EC%9D%B4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-1.md) \- [턴에이 건담(월광접)](%ED%84%B4%EC%97%90%EC%9D%B4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md)
+  * [턴 엑스](%ED%84%B4%20%EC%97%91%EC%8A%A4#s-6.2.md)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC
+%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%9C%A0%EB%8
+B%9B%20%EB%AA%A9%EB%A1%9D/S%EB%9E%AD%ED%81%AC?action=edit&section=13)]
+
+### 13. [기동전사 건담 SEED](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%20SEED.md)([기동전사 건담 SEED DESTINY](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%20SEED%20DESTINY.md)등 포함) ¶
+
+  * [데스티니 건담](%EB%8D%B0%EC%8A%A4%ED%8B%B0%EB%8B%88%20%EA%B1%B4%EB%8B%B4/%EA%B2%8C%EC%9E%84#s-5.md)
+  * [레전드 건담](%EB%A0%88%EC%A0%84%EB%93%9C%20%EA%B1%B4%EB%8B%B4#s-5.3.md)
+  * [스타게이저 건담](%EC%8A%A4%ED%83%80%EA%B2%8C%EC%9D%B4%EC%A0%80#s-3.md)
+  * [아카츠키 건담(오오와시)](%EC%95%84%EC%B9%B4%EC%B8%A0%ED%82%A4%20%EA%B1%B4%EB%8B%B4#s-2.4.1.md) \- [아카츠키 건담(시라누이)](%EC%95%84%EC%B9%B4%EC%B8%A0%ED%82%A4%20%EA%B1%B4%EB%8B%B4#s-2.4.2.md)
+  * [저스티스 건담](%EC%A0%80%EC%8A%A4%ED%8B%B0%EC%8A%A4%20%EA%B1%B4%EB%8B%B4#s-6.md) \- [인피니트 저스티스 건담](%EC%9D%B8%ED%94%BC%EB%8B%88%ED%8A%B8%20%EC%A0%80%EC%8A%A4%ED%8B%B0%EC%8A%A4%20%EA%B1%B4%EB%8B%B4.md) \- [저스티스 건담 (미티어)](%EB%AF%B8%ED%8B%B0%EC%96%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md) \- [인피니트 저스티스 건담 (미티어)](%EB%AF%B8%ED%8B%B0%EC%96%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-4.md)
+  * [프로비던스 건담](%ED%94%84%EB%A1%9C%EB%B9%84%EB%8D%98%EC%8A%A4%20%EA%B1%B4%EB%8B%B4#s-5.2.md) \- [닉스 프로비던스 건담](%EB%8B%89%EC%8A%A4%20%ED%94%84%EB%A1%9C%EB%B9%84%EB%8D%98%EC%8A%A4%20%EA%B1%B4%EB%8B%B4#s-2.md)
+  * [프리덤 건담](%ED%94%84%EB%A6%AC%EB%8D%A4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0.md) \- [스트라이크 프리덤 건담](%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%9D%B4%ED%81%AC%20%ED%94%84%EB%A6%AC%EB%8D%A4%20%EA%B1%B4%EB%8B%B4.md) \- [프리덤 건담 (미티어)](%ED%94%84%EB%A6%AC%EB%8D%A4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0.md) \- [프리덤 건담(하이맷 모드)](%ED%94%84%EB%A6%AC%EB%8D%A4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0.md) \- [스트라이크 프리덤 건담 (미티어)](%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%9D%B4%ED%81%AC%20%ED%94%84%EB%A6%AC%EB%8D%A4%20%EA%B1%B4%EB%8B%B4/%EA%B2%8C%EC%9E%84.md)
+  * [디스트로이 건담](%EB%94%94%EC%8A%A4%ED%8A%B8%EB%A1%9C%EC%9D%B4%20%EA%B1%B4%EB%8B%B4#s-5.md)
+  * [퍼펙트 스트라이크 건담](%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%9D%B4%ED%81%AC%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-6.md)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC
+%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%9C%A0%EB%8
+B%9B%20%EB%AA%A9%EB%A1%9D/S%EB%9E%AD%ED%81%AC?action=edit&section=14)]
+
+### 14. [기동전사 건담00](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%2000.md) ¶
+
+  * [더블오 건담](%EB%8D%94%EB%B8%94%EC%98%A4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-1.md) \- [더블오라이저](%EB%8D%94%EB%B8%94%EC%98%A4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md) \- [더블오 건담 세븐 소드/G](%EB%8D%94%EB%B8%94%EC%98%A4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-3.md) \- [더블오라이저(GN 콘덴서)](%EB%8D%94%EB%B8%94%EC%98%A4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-4.md) \- [더블오 잔 라이저](%EB%8D%94%EB%B8%94%EC%98%A4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-5.md)
+  * [더블오 퀀터](%EB%8D%94%EB%B8%94%EC%98%A4%20%ED%80%80%ED%84%B0/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-4.1.md) \- [더블오 퀀터 풀세이버](%EB%8D%94%EB%B8%94%EC%98%A4%20%ED%80%80%ED%84%B0/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-4.2.md)
+  * [리본즈 건담](%EB%A6%AC%EB%B3%B8%EC%A6%88%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-1.md) \- [리본즈 건담(에그너 윕)](%EB%A6%AC%EB%B3%B8%EC%A6%88%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md)
+  * [스사노오](%EC%8A%A4%EC%82%AC%EB%85%B8%EC%98%A4%28%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%2000%29#s-3.md)
+  * [세라비 건담](%EC%84%B8%EB%9D%BC%EB%B9%84%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-1.md) \- [세라비 건담 GNHW/B](%EC%84%B8%EB%9D%BC%EB%B9%84%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md) \- [세라비 건담II](%EC%84%B8%EB%9D%BC%EB%B9%84%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-3.md)
+  * [아리오스 건담](%EC%95%84%EB%A6%AC%EC%98%A4%EC%8A%A4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-1.md) \- [아리오스 건담 GNHW/M](%EC%95%84%EB%A6%AC%EC%98%A4%EC%8A%A4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md) \- [아리오스 건담 아스칼론](%EC%95%84%EB%A6%AC%EC%98%A4%EC%8A%A4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-3.md)
+  * [알바토레](%EC%95%8C%EB%B0%94%ED%86%A0%EB%A0%88#s-2.md)
+  * [켈딤 건담](%EC%BC%80%EB%A3%A8%EB%94%A4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-1.md) \- [켈딤 건담 GNHW/R](%EC%BC%80%EB%A3%A8%EB%94%A4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md) \- [켈딤 건담 사가](%EC%BC%80%EB%A3%A8%EB%94%A4%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-3.md)
+  * [GN암즈 TYPE-D 듀나메스](GN%EC%95%94%EC%A6%88#s-2.2.md)
+  * [GN암즈 TYPE-E 엑시아](GN%EC%95%94%EC%A6%88#s-2.1.md)
+  * [건담 사바냐](%EA%B1%B4%EB%8B%B4%20%EC%82%AC%EB%B0%94%EB%83%90/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-1.md) \- [건담 사바냐(최종결전사양)](%EA%B1%B4%EB%8B%B4%20%EC%82%AC%EB%B0%94%EB%83%90/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md)
+  * [건담 하루트](%EA%B1%B4%EB%8B%B4%20%ED%95%98%EB%A3%A8%ED%8A%B8/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-1.md) \- [건담 하루트(최종결전사양)](%EA%B1%B4%EB%8B%B4%20%ED%95%98%EB%A3%A8%ED%8A%B8/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md)
+  * [라파엘 건담](%EB%9D%BC%ED%8C%8C%EC%97%98%20%EA%B1%B4%EB%8B%B4.md)
+  * [브레이브 지휘관용 시험기](%EB%B8%8C%EB%A0%88%EC%9D%B4%EB%B8%8C%28%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%2000%29/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md)
+  * [가데라자](%EA%B0%80%EB%8D%B0%EB%9D%BC%EC%9E%90#s-2.md)
+  * [아르케 건담](%EC%95%84%EB%A5%B4%EC%BC%80%20%EA%B1%B4%EB%8B%B4#s-3.4.md)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC
+%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%9C%A0%EB%8
+B%9B%20%EB%AA%A9%EB%A1%9D/S%EB%9E%AD%ED%81%AC?action=edit&section=15)]
+
+### 15. [기동전사 건담AGE](%EA%B8%B0%EB%8F%99%EC%A0%84%EC%82%AC%20%EA%B1%B4%EB%8B%B4%20AGE.md) ¶
+
+  * [건담 AGE-3 노멀](%EA%B1%B4%EB%8B%B4%20AGE-3/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0.md) \- [건담 AGE-3 포트리스](%EA%B1%B4%EB%8B%B4%20AGE-3/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-2.md)
+  * [건담 AGE-2 다크하운드](%EA%B1%B4%EB%8B%B4%20AGE-2/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-4.md)
+  * [건담 레길루스](%EA%B1%B4%EB%8B%B4%20%EB%A0%88%EA%B8%B8%EB%A0%88%EC%8A%A4#s-6.md)
+
+[[edit](http://rigvedawiki.net/r1/wiki.php/SD%EA%B1%B4%EB%8B%B4%20%EC%BA%A1%EC
+%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0%20%EC%98%A8%EB%9D%BC%EC%9D%B8/%EC%9C%A0%EB%8
+B%9B%20%EB%AA%A9%EB%A1%9D/S%EB%9E%AD%ED%81%AC?action=edit&section=16)]
+
+### 16. [건담 빌드 파이터즈](%EA%B1%B4%EB%8B%B4%20%EB%B9%8C%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%84%B0%EC%A6%88.md) ¶
+
+  * [스타 빌드 스트라이크 건담](%EB%B9%8C%EB%93%9C%20%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%9D%B4%ED%81%AC%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-3.md) \- [스타 빌드 스트라이크 건담(RG시스템)](%EB%B9%8C%EB%93%9C%20%EC%8A%A4%ED%8A%B8%EB%9D%BC%EC%9D%B4%ED%81%AC%20%EA%B1%B4%EB%8B%B4/%EC%BA%A1%EC%8A%90%ED%8C%8C%EC%9D%B4%ED%84%B0#s-4.md)
+  * [크로스본 건담 마왕](%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B3%B8%20%EA%B1%B4%EB%8B%B4%20%EB%A7%88%EC%99%95#s-5.md)
+  * [건담 엑시아 다크매터](%EA%B1%B4%EB%8B%B4%20%EC%97%91%EC%8B%9C%EC%95%84%20%EB%8B%A4%ED%81%AC%EB%A7%A4%ED%84%B0#s-5.1.md)
+
